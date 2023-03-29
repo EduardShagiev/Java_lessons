@@ -9,7 +9,7 @@
 // Sample Output 1:
 // YES
 
-package Seminar_expample;
+package Seminar_expample.Seminar1;
 
 import java.util.Scanner;
 

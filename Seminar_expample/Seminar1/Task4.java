@@ -5,7 +5,7 @@
 // Sample Output:
 // 120
 
-package Seminar_expample;
+package Seminar_expample.Seminar1;
 
 import java.util.Scanner;
 

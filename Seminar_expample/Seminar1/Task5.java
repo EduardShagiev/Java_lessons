@@ -19,7 +19,7 @@
 // 4
 // 2
 
-package Seminar_expample;
+package Seminar_expample.Seminar1;
 
 import java.util.Scanner;
 
