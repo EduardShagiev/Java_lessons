@@ -7,7 +7,7 @@ public class Task4 {
         Scanner IScanner = new Scanner(System.in);
         // System.out.printf("Введите строку");
         String str = ("Good morning my dear friend. My fish").toLowerCase();
-        String[] words = str.split(" ");
+        String[] words = str.split(" ", 0);
         System.out.printf("Введите символ: ");
         char symbol = IScanner.next().charAt(0);
 
