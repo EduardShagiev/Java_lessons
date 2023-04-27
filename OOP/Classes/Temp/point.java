@@ -1,4 +1,4 @@
-package OOP.Classes;
+package OOP.Classes.Temp;
 
 /**
  * Это Точка 2D

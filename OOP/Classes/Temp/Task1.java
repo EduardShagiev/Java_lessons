@@ -1,4 +1,4 @@
-package OOP.Classes;
+package OOP.Classes.Temp;
 
 public class Task1 {
     public static void main(String[] args) {

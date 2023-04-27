@@ -23,6 +23,8 @@ public class App {
         itemMachin.addProduct(new HotDrink("Латте", 120.0, 300, 80));
         itemMachin.addProduct(new HotDrink("Чай", 100.0, 200, 90));
 
+        // System.out.println(itemMachin.getProdByName("Масло"));
+
         for (Product prod : itemMachin.getProdAll()) {
             System.out.println(prod.toString());
         }
